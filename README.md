@@ -1,4 +1,3 @@
-# question-site-clone-Django-Rest-Framework-Vue.JS-
 
 # ASK! app
 ## Basic question site clone using Django Rest Framework and Vue.js
