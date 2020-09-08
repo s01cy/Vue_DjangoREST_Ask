@@ -1,6 +1,5 @@
 
 # ASK! app
-## Basic question site clone using Django Rest Framework and Vue.js
 #### Contains user authentication, CRUD functionality both for Questions and Answers
 #### Answers can be liked by users
 #### Django Crispy Forms used for registration
